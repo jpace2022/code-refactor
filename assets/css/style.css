@@ -1,7 +1,6 @@
+/*removed padding and margin becasue it was unneeded*/
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 body {
@@ -26,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/*changed div to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,6 +34,7 @@ body {
     font-size: 20px;
 }
 
+/*changed div to nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -84,6 +85,7 @@ p {
     background-color: #2589bd;
 }
 
+/*combined the 3 benifit attributes to reduce lines of code*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -91,6 +93,7 @@ p {
     color: #ffffff;
 }
 
+/*combined the 3 benifit attributes to reduce lines of code*/
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3, {
@@ -116,6 +119,7 @@ p {
     max-width: 150px;
 }
 
+/*combined the below sections with similar attributes to reduce code*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -139,6 +143,7 @@ p {
     max-height: 200px;
 }
 
+/*combined the below sections with similar attributes to reduce code*/
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing {
