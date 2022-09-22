@@ -1,4 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor discription
+<h1 align="center"> 01 HTML, CSS, and Git: Code Refactor </h1>
 
 ## Discription
 
